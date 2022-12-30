@@ -1,0 +1,8 @@
+core_cm7.h:2147:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+commands.c:38:15:no_usb_detected	4	static
+commands.c:56:6:COMMAND_PREPARE_USB	8	static
+commands.c:73:6:COMMAND_DOWNLOAD	32	static
+commands.c:112:6:COMMAND_JUMP	8	static
+commands.c:123:6:COMMAND_ProgramFlashMemory	24	static
+commands.c:145:15:COMMAND_Test_Write	16	static
+commands.c:170:15:COMMAND_Test_Read	16	static
